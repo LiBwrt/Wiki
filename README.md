@@ -30,6 +30,10 @@
 
 ## 更新日志
 
+2025.1.15
+ 1. 修复aliyun ap8220 https://github.com/LiBwrt/openwrt-6.x/pull/76
+ 2. 同步主线openwrt
+
 2025.1.14
  1. 修复基于skb的内存回收机制，减少内存占用及时回收内存
  2. 恢复IPQ settings默认设置
